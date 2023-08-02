@@ -15,6 +15,10 @@ Mesmo com pouco conhecimento em linguagem SQL, desenvolvi este projeto focando n
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
 </div>
 
+### Exemplo de execução:
+> ![image](https://user-images.githubusercontent.com/110574688/257888182-2daf6b46-1654-4867-b72d-e9593ec8b597.png)
+
+
 ## Autor
 <p>Jhone Costa Rodrigues</p>
 <section align="left">  
